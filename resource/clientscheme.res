@@ -3051,6 +3051,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		StarHound14
+		{
+			"1"
+			{
+				"name"		"Star Hound"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
 	}
 
 	// CUSTOM FONTS!!!
