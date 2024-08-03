@@ -246,7 +246,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"285"
+		"ypos"		"255"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -428,7 +428,13 @@
 
 	HudDamageIndicator
 	{
-
+		"fieldName" "HudDamageIndicator"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"425"	[$WIN32]
+		"ypos"	"285"	[$WIN32]
+		"wide"	"94"
+		"tall"	"45"
 	}
 
 	HudCommentary

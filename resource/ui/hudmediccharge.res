@@ -22,9 +22,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
 		"xpos"			"30"
-		"xpos_minmode"			"11"
 		"ypos"			"24"
-		"ypos_minmode"			"11"
 		"zpos"			"2"
 		"wide"			"140"
 		"tall"			"15"
@@ -33,11 +31,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#TF_Ubercharge"
+		"labelText"		"#TF_UberchargeMinHUD"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"StarHound14"
+		"font"			"Starcatcher16"
 	}
 
 	"IndividualChargesLabel"
@@ -60,7 +58,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"StarHound14"
+		"font"			"StarHound32"
 	}
 	
 	"ChargeMeter"
@@ -82,6 +80,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor_override"		"255 0 0 255"
+		"bgcolor_override"		"255 255 255 255"
 	}		
 
 	"ChargeMeter1"

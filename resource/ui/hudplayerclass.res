@@ -1,5 +1,24 @@
 "Resource/UI/HudPlayerClass.res"
 {
+	"speedometer"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speedometer"
+		"visible" "1"
+		"enabled" "1"
+		"visible_minmode" "1"
+		"enabled_minmode" "1"
+		"xpos" "432"
+		"ypos" "186"
+		"zpos" "0"
+		"wide" "50"
+		"tall" "50"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/speed/speedometer"
+		"scaleimage" "1"
+	}
+	
 	// player class data
 	"HudPlayerClass"
 	{

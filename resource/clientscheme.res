@@ -3052,12 +3052,22 @@ Scheme
 			}
 		}
 		
-		StarHound14
+		StarHound16
 		{
 			"1"
 			{
 				"name"		"Star Hound"
-				"tall"		"14"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		Starcatcher16
+		{
+			"1"
+			{
+				"name"		"Starcatcher"
+				"tall"		"16"
 				"antialias" "1"
 			}
 		}
